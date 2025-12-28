@@ -19,9 +19,9 @@
 1. What kinds of work do you _actually_ spend most of your time doing right now?
     AI-Assisted development of Raybox, LifeOS, etc. I am deep in a building phase of my life right now, and am spending a lot less time (if any) working on music, art, or other non-tech creative projects
 2. What responsibilities do you currently carry, regardless of whether you chose them?
-    
+    Being a fianceé, a parent to a cat and 2 mice, grad school.
 3. What constraints are non-negotiable in your life right now?  
-    (health, money, location, caregiving, legal, energy)
+    location (san francisco), my 
     
 4. What reliably drains your energy?
     
