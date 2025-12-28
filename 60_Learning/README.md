@@ -10,3 +10,4 @@ Ambient learning compounds quietly over time. It has no immediate purpose but ac
 
 There is no obligation or queue. Learning happens when it happens.
 
+

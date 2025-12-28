@@ -8,3 +8,4 @@ Goals may have horizons: short-term, mid-term, or long-term. The horizon helps c
 
 Goals are blocked by requirements. Understanding what must be true for a goal to be achievable is often more important than the goal itself.
 
+

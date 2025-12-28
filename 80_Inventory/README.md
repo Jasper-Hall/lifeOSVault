@@ -8,3 +8,4 @@ This information informs feasibility assessments and opportunity detection. Know
 
 Inventory is human-owned. You maintain this record of your material context.
 
+
