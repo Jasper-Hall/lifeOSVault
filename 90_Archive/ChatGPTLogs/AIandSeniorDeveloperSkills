@@ -1,0 +1,30 @@
+AI and senior developer skills
+user
+[File]: 6902bf74-41a8-8331-bf3a-69d97ce31da8/audio/file_00000000f5a461f59580969276d13964-528b9047-f250-4c8a-b5b8-a1ea7664f53e.wav
+ChatGPT
+[Transcript]: Hey there! How can
+[File]: 6902bf74-41a8-8331-bf3a-69d97ce31da8/audio/file_000000003a2461f5a80977c0d1f70b4a-2b8307cf-7598-499d-b2fd-17a95dc3ae50.wav
+user
+[Transcript]: In the age of AI coding, what are the skills that one should learn to get good at the skills that AI is not good at, which is recognizing quality code versus shitty quality code, understanding architectural patterns, understanding security and maintainability and clean code practices, being able to essentially be a QA and a code reviewer and an architect and an AI code assistant director or project manager. How does one learn those skills as an honest developer in this era where you don't necessarily need to learn how to write the code and all the syntax details and everything, but you need to learn these more senior level skills of pattern matching, quality code, and how to use AI tools really effectively.
+[File]: 6902bf74-41a8-8331-bf3a-69d97ce31da8/audio/file_00000000806061f5bb305429dc93f16e-8cf32e92-0364-44f4-b57f-4fb131f44276.wav
+ChatGPT
+[Transcript]: That's a fantastic question! In the age of AI coding, the human edge really comes down to higher-order skills. So, some key areas to focus on include code quality and best practices—understanding what makes code maintainable, scalable, and secure. That includes learning design patterns, architecture principles, and code review techniques. Another area is critical thinking and problem-solving, which involves being able to identify potential issues and improve solutions. Also, understanding how to leverage AI tools effectively, like knowing when to trust the AI and when to step in yourself. It’s a blend of soft skills, like communication and leadership, and technical skills, like understanding the bigger picture. It’s definitely a fun and challenging journey!
+[File]: 6902bf74-41a8-8331-bf3a-69d97ce31da8/audio/file_0000000035ac61f5b0be77384c3171e9-b252b384-50c8-4650-adfb-49b76e566572.wav
+user
+[Transcript]: Can you give me like practical sources for these kind of learning resources and preferably some kind of platform like boot.dev where the learning material is laid out in an interactive way that forces you to solve the problems yourself rather than just like a video or a learning because that's a little harder for my brain to like keep that information stored.
+[File]: 6902bf74-41a8-8331-bf3a-69d97ce31da8/audio/file_00000000936861f585fe9a4a38484e85-a44b8c80-721f-4262-a0f6-f71536fba803.wav
+ChatGPT
+[Transcript]: Absolutely! For interactive learning platforms, here are a few great resources:
+
+1. **Exercism**: It offers coding exercises with mentor feedback, which is great for improving code quality and understanding best practices.
+
+2. **Pluralsight**: They have interactive courses on software architecture, design patterns, and security.
+
+3. **Codecademy**: Their "Pro" version includes projects and quizzes that focus on clean code and best practices.
+
+4. **LeetCode and HackerRank**: While they're often for algorithms, they also have community discussions and solutions that help you understand quality code.
+
+5. **Coursera and edX**: They offer more structured courses on software architecture and security, often with interactive elements.
+
+These should give you a good balance of hands-on practice and the theory behind it all!
+[File]: 6902bf74-41a8-8331-bf3a-69d97ce31da8/audio/file_0000000039a0622f87d49a5ba683d6cf-09e9dcb3-d557-4cda-91d9-a63b71775b54.wav
