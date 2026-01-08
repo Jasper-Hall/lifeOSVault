@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/cap_2025-12-28T02:05:25-08:00.md",
+                "file": "00_System/01_StateSnapshot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cap_2025-12-28T02:05:25-08:00"
+              "title": "01_StateSnapshot"
+            }
+          },
+          {
+            "id": "311c8b25caa03340",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30_Projects/Mutax.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mutax"
+            }
+          },
+          {
+            "id": "2437998470efec6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/cap_2025-12-21T23:06:02-08:00.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cap_2025-12-21T23:06:02-08:00"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +141,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Inbox/cap_2025-12-21T23:06:02-08:00.md",
+            "file": "00_System/02_FinancialState.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -168,17 +197,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "af060cee96994184",
+  "active": "2437998470efec6b",
   "lastOpenFiles": [
+    "Inbox/cap_2026-01-07T20:23:17-08:00.md",
+    "Inbox/cap_2025-12-21T23:06:02-08:00.md",
+    "Inbox/cap_2025-12-21T23:43:50-08:00.md",
+    "Inbox/cap_2025-12-28T02:05:25-08:00.md",
     "Inbox/cap_2025-12-28T02:05:59-08:00.md",
     "Inbox/cap_2025-12-29T13:37:03-08:00.md",
     "Inbox/cap_2025-12-29T13:37:38-08:00.md",
     "Inbox/cap_2025-12-31T22:21:28-08:00.md",
     "Inbox/cap_2026-01-01T12:51:52-08:00.md",
+    "Inbox/cap_2026-01-01T17:21:59-08:00.md",
+    "00_System/02_FinancialState.md",
+    "60_Learning/Capabilities.md",
+    "60_Learning/Ambient_Learning.md",
+    "70_Narrative/02_Values_and_NonGoals.md",
+    "70_Narrative/01_Intent.md",
+    "70_Narrative/identityquestions.md",
+    "70_Narrative/Identity Context Questions (LifeOS).md",
+    "Untitled.md",
+    "30_Projects/Mutax.md",
+    "00_System/01_StateSnapshot.md",
+    "70_Narrative/03_Season.md",
     "README.md",
-    "Inbox/cap_2025-12-28T02:05:25-08:00.md",
-    "Inbox/cap_2025-12-21T23:43:50-08:00.md",
-    "Inbox/cap_2025-12-21T23:06:02-08:00.md",
     "Inbox/cap_2025-12-21T15:52:49-08:00.md",
     "Inbox/cap_2025-12-21T15:45:45-08:00.md"
   ]
