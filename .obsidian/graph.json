@@ -17,6 +17,10 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
+<<<<<<< HEAD
   "scale": 1,
+=======
+  "scale": 0.3461209381112713,
+>>>>>>> f6fbe74 (Add goals, commitments, and Tombogo collaboration project)
   "close": false
 }

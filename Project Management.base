@@ -1,0 +1,96 @@
+filters:
+  and:
+    - status != "Complete"
+views:
+  - type: table
+    name: All Project Management Files
+    filters:
+      and:
+        - "!kind.isEmpty()"
+        - status != "completed"
+    order:
+      - file.name
+      - parent
+      - kind
+      - priority
+      - project
+    sort:
+      - property: project
+        direction: DESC
+  - type: table
+    name: All Projects
+    filters:
+      and:
+        - kind == "Project"
+  - type: table
+    name: All Epics
+    filters:
+      and:
+        - kind.contains("Epic")
+        - status != "completed"
+  - type: cards
+    name: Project Board
+    filters:
+      and:
+        - kind == "Project"
+    order:
+      - file.name
+    cardSize: 200
+    imageAspectRatio: 0.9
+  - type: table
+    name: All Stories
+    filters:
+      and:
+        - "!kind.isEmpty()"
+        - status != "completed"
+  - type: table
+    name: All Tasks
+    filters:
+      and:
+        - kind.contains("Task")
+        - status != "completed"
+  - type: table
+    name: All Ideas
+    filters:
+      and:
+        - kind.contains("Idea")
+        - status != "completed"
+  - type: table
+    name: All Bugs
+    filters:
+      and:
+        - kind.contains("Bug")
+        - status != "completed"
+  - type: table
+    name: Project Epics
+    filters:
+      and:
+        - kind.contains("Epic")
+        - project == this.file.basename
+  - type: table
+    name: Project Tasks
+    filters:
+      and:
+        - kind.contains("Task")
+        - status != "completed"
+        - project == this.file.basename
+    order:
+      - file.name
+      - due
+      - priority
+      - status
+      - urgency
+    sort:
+      - property: priority
+        direction: ASC
+    columnSize:
+      note.due: 111
+      note.priority: 108
+      note.status: 116
+  - type: table
+    name: Project Stories
+    filters:
+      and:
+        - kind == "Story"
+        - status != "completed"
+        - project == this.file.basename
