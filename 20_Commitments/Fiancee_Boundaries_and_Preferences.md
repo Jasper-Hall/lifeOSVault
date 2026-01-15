@@ -1,9 +1,10 @@
 ---
 owner: human
 status: active
-created: 2025-01-XX
-last_updated: 2025-01-XX
-review_frequency: Daily/Weekly
+created: 2026-01-07
+last_updated: 2026-01-15
+review_frequency: weekly
+priority: high
 ---
 
 # Fiancée Boundaries & Preferences

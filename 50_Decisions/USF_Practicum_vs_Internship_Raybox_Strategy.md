@@ -1,6 +1,6 @@
 ---
 owner: human
-decision_date: 2025-01-XX
+decision_date: 2026-01-07
 status: active
 related_goals: [[Mid-Term_Goals#Financial Independence Transition]], [[Long-Term_Goals#Launch Rheome]]
 related_projects: [[Raybox]], [[Rheome]]

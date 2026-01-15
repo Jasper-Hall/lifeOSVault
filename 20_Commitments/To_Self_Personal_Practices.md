@@ -1,8 +1,10 @@
 ---
 owner: human
 status: active
-created: 2025-01-XX
-last_updated: 2025-01-XX
+created: 2026-01-07
+last_updated: 2026-01-15
+due_date: 2026-01-26
+priority: urgent
 ---
 
 # Commitments to Self: Personal Practices
@@ -41,7 +43,7 @@ last_updated: 2025-01-XX
 **Status:** Active (URGENT)  
 **Type:** Infrastructure setup  
 **Promise:** Set up workspace/room in apartment before classes start  
-**Deadline:** January 26, 2025 (classes start)  
+**Deadline:** 2026-01-26 (classes start)  
 **To:** Self  
 **Notes:** Recently moved in, workspace not set up yet. This is critical blocker for productivity and project work. Must be completed urgently.
 

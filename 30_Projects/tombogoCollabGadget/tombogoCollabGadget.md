@@ -3,8 +3,8 @@ id: project_tombogo-x-rheome
 status: active
 horizon: mid
 owner: human
-created: 2025-01-XX
-last_reviewed: 2025-01-XX
+created: 2026-01-07
+last_reviewed: 2026-01-07
 kind: Project
 project: tombogo-x-rheome
 priority: high
@@ -116,7 +116,7 @@ Waiting on Tommy (Tombogo) to add ideas to the Notion page and schedule another 
 
 ## 11. Notes & Running Log (append-only)
 
-**2025-01-XX:** Project initiated. Product criteria and concept ideas documented. Multiple concept directions under consideration (audio diary, mini sampler/groovebox, clock/watch). Development platform comparison completed (Daisy, ESP32, RP2040/RP2350). Target: prototype complete by July 2025, launch late November 2025.
+**2026-01-07:** Project initiated. Product criteria and concept ideas documented. Multiple concept directions under consideration (audio diary, mini sampler/groovebox, clock/watch). Development platform comparison completed (Daisy, ESP32, RP2040/RP2350). Target: prototype complete by July 2025, launch late November 2025.
 
 ## 12. Technical Details
 

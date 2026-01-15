@@ -1,8 +1,10 @@
 ---
 owner: human
 status: active
-created: 2025-01-XX
-last_updated: 2025-01-XX
+created: 2026-01-07
+last_updated: 2026-01-15
+due_date: 2026-07-01
+priority: high
 ---
 
 # Financial Commitments: Debt Repayment

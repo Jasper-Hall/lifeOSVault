@@ -1,8 +1,8 @@
 ---
 owner: human
 horizon: short-term
-created: 2025-01-XX
-last_updated: 2025-01-XX
+created: 2026-01-07
+last_updated: 2026-01-15
 ---
 
 # Short-Term Goals
