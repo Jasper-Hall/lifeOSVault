@@ -45,6 +45,9 @@ owner: system
 - Monthly expense reporting required for trust
 - Limited runway until additional income secured
 - Income gap will widen significantly in ~3 months
+- **Rent:** $1,800/month (tripled when moved back to Bay Area, highest rent ever)
+- **Trust timeline:** Rapidly approaching expiration
+- Zero savings, significant debt
 
 ## Health / Sleep Context
 
@@ -59,6 +62,17 @@ owner: system
 ### Pending Health Actions
 - Sign up for sleep study with current insurance
 - Resume CPAP usage
+- **URGENT:** Book ADHD treatment appointments (insurance expires July 2025)
+- General health checkups (insurance expires July 2025)
+- Digestive health/IBS-like symptoms evaluation (insurance expires July 2025)
+
+### Health Insurance Deadline
+**Status:** CRITICAL  
+**Expiration:** July 2025  
+**Action Required:** Take advantage of coverage before expiration for:
+- ADHD treatment and care
+- General health checkups
+- Digestive health evaluation
 
 ## Capacity Notes
 

@@ -23,12 +23,16 @@ last_updated: 2025-01-XX
 **Priority:** Medium  
 **Notes:** Part of short-term goals to begin paying off.
 
-### Ash Debt
-**Status:** Active  
+### Ash Debt (Fiancée)
+**Status:** Active (URGENT)  
 **Type:** Personal debt  
 **Amount:** ~$4,000  
-**Priority:** High  
-**Notes:** Part of short-term goals to begin paying off. Personal relationship involved.
+**Priority:** **CRITICAL - Relationship strain**  
+**Notes:** 
+- Part of short-term goals to begin paying off
+- **Putting strain on relationship** - must be paid off urgently
+- Personal relationship involved - financial responsibility is critical for relationship stability
+- See also: [[Relationship_Maintenance]]
 
 ### Fred Debt
 **Status:** Active (deferred)  

@@ -23,29 +23,37 @@ last_updated: 2025-01-XX
 **Wednesday:**
 - **512 - Product Engineering 101**
   - Time: 1:00 PM - 5:00 PM
-  - Location: Howard St
+  - Location: 101 Howard St, San Francisco
   - Duration: 4 hours
+  - Runs until: March 12, 2025
 
 **Thursday:**
 - **502 - Internet & Bus Applications 101**
-  - Time: 1:00 PM - 2:00 PM
-  - Location: Howard St
-  - Duration: 1 hour
+  - Time: 1:10 PM - 3:00 PM
+  - Location: 101 Howard St, San Francisco
+  - Duration: 1 hour 50 minutes
+  - Runs until: March 13, 2025
 - **503 - Enterprise Software Dev 101**
   - Time: 6:00 PM - 10:00 PM
-  - Location: Howard St
+  - Location: 101 Howard St, San Francisco
   - Duration: 4 hours
+  - Runs until: March 13, 2025
 
 **Friday:**
 - **510 - Org Practicum 101**
-  - Time: 1:00 PM - 2:00 PM
-  - Location: Howard St
-  - Duration: 1 hour
+  - Time: 1:10 PM - 3:00 PM
+  - Location: 101 Howard St, San Francisco
+  - Duration: 1 hour 50 minutes
+  - Runs until: May 22, 2025
+  - **Note:** May be able to get out of this class time if switching Friday work to afternoon shift (program director said this would be OK)
 
 ### Total Weekly Time Commitments
 
 **Work:** 26 hours/week (Tues-Fri, 6am-12:30pm)  
-**Classes:** 10 hours/week (Wed-Fri, various times)  
+**Classes:** ~10 hours/week (Wed-Fri, various times)
+  - Wed: 4 hours (1pm-5pm)
+  - Thu: 5 hours 50 minutes (1:10pm-3pm, 6pm-10pm)
+  - Fri: 1 hour 50 minutes (1:10pm-3pm)
 **Total committed time:** ~36 hours/week
 
 ## Schedule Constraints

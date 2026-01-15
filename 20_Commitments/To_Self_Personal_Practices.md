@@ -37,6 +37,14 @@ last_updated: 2025-01-XX
 **To:** Self  
 **Notes:** Reconnecting with creative output. Currently in "building phase" but this commitment maintains connection to music practice.
 
+### Workspace Setup
+**Status:** Active (URGENT)  
+**Type:** Infrastructure setup  
+**Promise:** Set up workspace/room in apartment before classes start  
+**Deadline:** January 26, 2025 (classes start)  
+**To:** Self  
+**Notes:** Recently moved in, workspace not set up yet. This is critical blocker for productivity and project work. Must be completed urgently.
+
 ---
 
 ## Notes
